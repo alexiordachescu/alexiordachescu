@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexiordachescu&label=Profile%20views&color=0e75b6&style=flat" alt="alexiordachescu" /> </p> 
 
--📍 Amsterdam, the Netherlands
+- 📍 Amsterdam, the Netherlands
 - 📫 How to reach me **alex.iordachescu27@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
